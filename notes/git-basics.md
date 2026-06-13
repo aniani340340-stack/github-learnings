@@ -5,3 +5,4 @@ git add.
 git commit -m "message"
 gir merge branch-name
 please put the command
+please add the new bug 
